@@ -72,7 +72,7 @@
 * Correlation Heatmap
 
 ---
-![image3](image3.jpg)
+![image3]([image3.jpg](https://github.com/bhaskarpal1707/Student-Placement-Analysis/blob/main/Image3.jpg?raw=true))
 
 ## 📌 Conclusions
 
