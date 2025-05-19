@@ -1,3 +1,15 @@
+## 🖼️ Sample Visualizations
+
+### 🎯 CGPA vs Placement
+![CGPA vs Placement](images/cgpa_vs_placement.png)
+
+### 🎓 Placement by Stream
+![Placement by Stream](images/placement_by_stream.png)
+
+### 🔥 Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+
 # 📊 Student Placement Analysis
 
 ## 🔍 Project Overview
