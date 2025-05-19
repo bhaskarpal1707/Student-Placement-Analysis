@@ -34,7 +34,7 @@
 
 ---
 
-![image2](image2.png)
+![image2](image2.jpg)
 
 ## 🧹 Data Cleaning & Preprocessing
 
@@ -72,7 +72,7 @@
 * Correlation Heatmap
 
 ---
-![image3](image3.png)
+![image3](image3.jpg)
 
 ## 📌 Conclusions
 
