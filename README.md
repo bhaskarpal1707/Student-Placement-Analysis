@@ -1,5 +1,5 @@
 
-![Image1]([images/cgpa_vs_placement.png](https://github.com/bhaskarpal1707/Student-Placement-Analysis/blob/main/image1.png?raw=true))
+![Image1](![image](https://github.com/user-attachments/assets/3bca00f8-1159-4a39-a0c2-1ab6f37cca56))
 # 📊 Student Placement Analysis: Visualizing Success Factors in Campus Hiring
 
 ## 🔍 Project Overview
