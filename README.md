@@ -1,5 +1,5 @@
 
-![CGPA vs Placement](image1.png)
+![image1](image1.png)
 # 📊 Student Placement Analysis: Visualizing Success Factors in Campus Hiring
 
 ## 🔍 Project Overview
@@ -33,6 +33,8 @@
 | **Jupyter**    | Notebook interface for combining code, output, and explanation          |
 
 ---
+
+![image2](image2.png)
 
 ## 🧹 Data Cleaning & Preprocessing
 
@@ -70,6 +72,7 @@
 * Correlation Heatmap
 
 ---
+![image3](image3.png)
 
 ## 📌 Conclusions
 
