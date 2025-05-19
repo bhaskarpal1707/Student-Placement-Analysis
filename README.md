@@ -34,7 +34,7 @@
 
 ---
 
-![image2](image2.jpg)
+![image2](https://github.com/bhaskarpal1707/Student-Placement-Analysis/blob/main/Image2.jpg?raw=true)
 
 ## 🧹 Data Cleaning & Preprocessing
 
